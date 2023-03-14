@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       home:Material(  
         child:Center(
           child:Container(
-            child: Text("welcome to my app"),
+            child: Text("Hello world - this is my first app"),
           ),    
         ),
       ),

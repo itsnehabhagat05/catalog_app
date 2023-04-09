@@ -14,7 +14,12 @@ class ItemWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Card(
       
+    
+      shape: StadiumBorder(),
+      elevation: 3,
+      
       child: ListTile(
+        
         onTap: () {
           print("${item.name} pressed");
         },

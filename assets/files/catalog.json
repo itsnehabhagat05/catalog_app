@@ -18,11 +18,12 @@
         },
         {
             "id": 3,
-            "name": "M1 Macbook Air",
-            "desc": "Apple Macbook air with apple silicon",
-            "price": 1099,
-            "color": "#e0bfae",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
+            "name": "Pebble Pace Smart Watch",
+            "desc": "Pebble Pace Smart Watch 22 mm x 26 mm x 20 mm",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://images-static.nykaa.com/media/catalog/product/a/f/af899148906086572115-1.jpg"
+           
         },
         {
             "id": 4,
@@ -32,16 +33,9 @@
             "color": "#544ee4",
             "image": "https://www.reliancedigital.in/medias/ONEPLUS-32Y1-TV-491895010-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNjEzMzZ8aW1hZ2UvanBlZ3xpbWFnZXMvaGI4L2gyZC85ODEwMDU4NzA2OTc0LmpwZ3w2Yzg5YmJmZWM4NTdhYmY1MDA0OWRkYTFlZTA0ZWM1MzNkYjA4NzNmZDliZWFkYzg2ZWIyZmE5MmE4YjBjNzc3"
         },
+       
         {
             "id": 5,
-            "name": "Airpods Pro",
-            "desc": "Apple Aipods Pro 1st generation",
-            "price": 200,
-            "color": "#e3e4e9",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROEs084z65psoo06zYl5R0tUzywOVKVQZzmzqCj3PDP1vVJTWv3gGwGMFENSy4qV4n7sEQjE&usqp=CAc"
-        },
-        {
-            "id": 6,
             "name": "iPad Pro",
             "desc": "Apple iPad Pro 2020 edition",
             "price": 799,
@@ -49,13 +43,22 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzUeRQ5uH7E3hpECib8qxdhfHv6SnUGT7mOsew_xiOoqRR7ZpdH-TQ4J6-HuIEfqHimYyPXWH&usqp=CAc"
         },
         {
-            "id": 7,
-            "name": "Pebble Pace Smart Watch",
-            "desc": "Pebble Pace Smart Watch 22 mm x 26 mm x 20 mm",
-            "price": 1299,
-            "color": "#1c1c1c",
-            "image": "https://images-static.nykaa.com/media/catalog/product/a/f/af899148906086572115-1.jpg"
+            "id": 6,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
         },
+        {
+            "id": 7,
+            "name": "Airpods Pro",
+            "desc": "Apple Aipods Pro 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQROEs084z65psoo06zYl5R0tUzywOVKVQZzmzqCj3PDP1vVJTWv3gGwGMFENSy4qV4n7sEQjE&usqp=CAc"
+        },
+       
         {
             "id": 8,
             "name": "Vivo V27 Pro ",

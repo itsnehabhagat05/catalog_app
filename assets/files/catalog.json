@@ -11,15 +11,15 @@
         {
             "id": 2,
             "name": "boAt Rockerz 450 ",
-            "desc": "boAt Rockerz 450 Bluetooth On Ear Headphones ",
+            "desc": "boAt Rockerz Bluetooth headphone",
             "price": 49,
             "color": "#00ac51",
             "image": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61u1VALn6JL._SL1500_.jpg"
         },
         {
             "id": 3,
-            "name": "Pebble Pace Smart Watch",
-            "desc": "Pebble Pace Smart Watch 22 mm x 26 mm x 20 mm",
+            "name": "Pebble Smart Watch",
+            "desc": "Smart Watch 22mmx26mmx20mm",
             "price": 1299,
             "color": "#1c1c1c",
             "image": "https://images-static.nykaa.com/media/catalog/product/a/f/af899148906086572115-1.jpg"
@@ -27,8 +27,8 @@
         },
         {
             "id": 4,
-            "name": "ONEPLUS HD Smart LED TV",
-            "desc": "ONEPLUS 81.28 cm (32 inch) HD Smart LED TV",
+            "name": "ONEPLUS Smart TV",
+            "desc": "ONEPLUS 81.28cm (32inch) HD",
             "price": 1900,
             "color": "#544ee4",
             "image": "https://www.reliancedigital.in/medias/ONEPLUS-32Y1-TV-491895010-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNjEzMzZ8aW1hZ2UvanBlZ3xpbWFnZXMvaGI4L2gyZC85ODEwMDU4NzA2OTc0LmpwZ3w2Yzg5YmJmZWM4NTdhYmY1MDA0OWRkYTFlZTA0ZWM1MzNkYjA4NzNmZDliZWFkYzg2ZWIyZmE5MmE4YjBjNzc3"
@@ -62,7 +62,7 @@
         {
             "id": 8,
             "name": "Vivo V27 Pro ",
-            "desc": "Vivo V27 Pro 256 GB (Magic Blue, 12 GB RAM",
+            "desc": "Vivo V27 Pro 256 GB",
             "price": 299,
             "color": "#7c95eb",
             "image": "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/1637573775712/9fc07ca342518268852b4ee3dcd74657.png"

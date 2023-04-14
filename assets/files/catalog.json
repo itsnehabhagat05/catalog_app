@@ -20,7 +20,7 @@
             "id": 3,
             "name": "Pebble Smart Watch",
             "desc": "Smart Watch 22mmx26mmx20mm",
-            "price": 1299,
+            "price": 129,
             "color": "#1c1c1c",
             "image": "https://images-static.nykaa.com/media/catalog/product/a/f/af899148906086572115-1.jpg"
            
@@ -29,7 +29,7 @@
             "id": 4,
             "name": "ONEPLUS Smart TV",
             "desc": "ONEPLUS 81.28cm (32inch) HD",
-            "price": 1900,
+            "price": 999,
             "color": "#544ee4",
             "image": "https://www.reliancedigital.in/medias/ONEPLUS-32Y1-TV-491895010-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNjEzMzZ8aW1hZ2UvanBlZ3xpbWFnZXMvaGI4L2gyZC85ODEwMDU4NzA2OTc0LmpwZ3w2Yzg5YmJmZWM4NTdhYmY1MDA0OWRkYTFlZTA0ZWM1MzNkYjA4NzNmZDliZWFkYzg2ZWIyZmE5MmE4YjBjNzc3"
         },
@@ -46,7 +46,7 @@
             "id": 6,
             "name": "M1 Macbook Air",
             "desc": "Apple Macbook air with apple silicon",
-            "price": 1099,
+            "price": 999,
             "color": "#e0bfae",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
         },

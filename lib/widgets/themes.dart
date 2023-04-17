@@ -1,3 +1,5 @@
+import 'dart:ui';
+
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:velocity_x/velocity_x.dart';
@@ -37,7 +39,9 @@ static ThemeData darkTheme(BuildContext context) => ThemeData(
           color: Colors.black,
           elevation: 0.0,
           iconTheme: IconThemeData(color: Colors.white),
-          titleTextStyle: Theme.of(context).textTheme.headline6, 
+          
+          textTheme: Theme.of(context).textTheme
+          .copyWith(headline6: TextStyle(color: Colors.white)), 
 
         )
       );

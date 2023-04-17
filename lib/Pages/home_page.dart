@@ -34,7 +34,7 @@ class _HomePageState extends State<HomePage> {
     // print(catalogJson);
     final decodedData = jsonDecode(catalogJson);
     final productsData =  decodedData["products"];
-    CatalogModel.items = List.from(productsData).map<Item>((item)=>Item.fromMap(item)).toList();
+    CatalogueModel.items = List.from(productsData).map<Item>((item)=>Item.fromMap(item)).toList();
     setState(() {
       
     });
@@ -62,7 +62,7 @@ class _HomePageState extends State<HomePage> {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               CatalogHeader(),
-              if(CatalogModel.items!=null && CatalogModel.items.isNotEmpty )
+              if(CatalogueModel.items!=null && CatalogueModel.items !.isNotEmpty )
                 CatalogList().expand()
               else
               CircularProgressIndicator().centered().py16().expand(),

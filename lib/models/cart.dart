@@ -1,12 +1,11 @@
 
+import 'package:flutter_catalog/core/store.dart';
+import 'package:velocity_x/velocity_x.dart';
+
 import 'catalog.dart';
 
 class CartModel {
-  // singleton class
-  static final cartModel = CartModel._internal(); 
-  CartModel._internal();
 
-  factory CartModel()=> cartModel ;
 //catalogue field
   CatalogueModel? _catalogue;
 
@@ -30,14 +29,25 @@ class CartModel {
 
   //add item
 
-  void add(Item item){
-    _itemIds.add(item.id);
-  }
+ // void add(Item item){
+  //  _itemIds.add(item.id);
+ // }
 
   //remove item
 
   void remove(Item item){
     _itemIds.remove(item.id);
+  }
+
+}
+
+class AddMutation extends VxMutation<MyStore>{
+  final Item item ;
+
+  AddMutation(this.item);
+  @override
+  perform() {
+    store ?.cart ._itemIds.add(item.id);
   }
 
 }

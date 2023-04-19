@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_catalog/Pages/cart_page.dart';
+import 'package:flutter_catalog/core/store.dart';
+import 'package:velocity_x/velocity_x.dart';
 import 'Pages/home_page.dart';
 import 'package:flutter_catalog/Pages/login_page.dart';
 import 'package:flutter_catalog/utils/routes.dart';
@@ -7,7 +9,11 @@ import 'widgets/themes.dart';
 
 
 void main(){
-  runApp(MyApp());
+  runApp(VxState(
+    store: MyStore(),
+    
+    
+    child: MyApp()));
 }
 
 

@@ -43,6 +43,6 @@ static ThemeData darkTheme(BuildContext context) => ThemeData(
 
 static Color creamColor = Color(0xfff5f5f5);
 static Color darkCreamColor = Vx.gray900;
-static Color lightBluishColor =  Color(0xff403b58);
+static Color lightBluishColor =  Color.fromARGB(255, 94, 72, 207);
 static Color darkBluishColor = Color.fromARGB(255, 33, 34, 88);
 }
